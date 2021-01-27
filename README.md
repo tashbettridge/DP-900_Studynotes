@@ -2,7 +2,7 @@
 ## AZURE DATA FUNDAMENTALS 
 > By Tash
 <p align="center">
-<img max-height=200 height=200 src=""/>
+<img max-height=200 height=200 src="https://github.com/ciph3rwoman/DP-900_Studynotes/blob/main/azure_data.png"/>
 </p>
 
 The first thing you should do is look at the criteria under skills measured. You are marked on the following:
