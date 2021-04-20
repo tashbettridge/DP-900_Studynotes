@@ -36,7 +36,7 @@ Here are a list of resources that helped me prepare for the exam:
 - O'reily: https://learning.oreilly.com/videos/microsoft-dp-900-certification/10009DP9002021
 - Exam Dumps - Testpreptraining: https://www.testpreptraining.com/
 - Exam Dumps - MeasureUp: https://www.measureup.com/ 
-- Exam Dumps - Exam Topic: https://www.examtopics.com/exams/microsoft/dp-900/
+
 
 # Summary:
 <a name="summary"></a>
