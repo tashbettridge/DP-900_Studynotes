@@ -34,8 +34,8 @@ Here are a list of resources that helped me prepare for the exam:
 - Microsoft Learn: https://docs.microsoft.com/en-us/learn/paths/azure-data-fundamentals-explore-core-data-concepts/
 - YouTube: https://www.youtube.com/watch?v=LirvmXjZU90
 - O'reily: https://learning.oreilly.com/videos/microsoft-dp-900-certification/10009DP9002021
-- Exam Dumps - Testpreptraining: https://www.testpreptraining.com/
-- Exam Dumps - MeasureUp: https://www.measureup.com/ 
+- Exam Practice Questions - Testpreptraining: https://www.testpreptraining.com/
+- Exam Practice Questions - MeasureUp: https://www.measureup.com/ 
 
 
 # Summary:
